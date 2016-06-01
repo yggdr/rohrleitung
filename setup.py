@@ -9,7 +9,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='rohrleitung',
-    version='0.1',
+    version='0.1.1',
     description='pipelining generators like python, not like shell',
     long_description=long_description,
     url='https://github.com/yggdr/rohrleitung',
